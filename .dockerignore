@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+*.ipynb
+*.md
+.env
+venv/
+.venv/
+extracted_notebook.py
